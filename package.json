@@ -1,0 +1,30 @@
+{
+  "name": "ptmjp",
+  "version": "1.0.0",
+  "description": "The utilities tools for working with JD , JDN and Astronomical Cycles: [Solar, Metonic (Lunar),Indiction]",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "module": "index.mjs",
+  "browser": "index.js",
+  "keywords": [
+    "julian-day",
+    "julian-day-number",
+    "JD",
+    "JDN"
+  ],
+  "author": {
+    "name": "Pho Thin Mg",
+    "email": "phothinmg@disroot.org",
+    "url": "https://phothinmg.github.io/"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "files": [
+    "package.json",
+    "README.md",
+    "LICENSE",
+    "index.js",
+    "index.mjs",
+    "index.d.ts"
+  ]
+}
