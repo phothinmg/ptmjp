@@ -1,6 +1,6 @@
 {
   "name": "ptmjp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The utilities tools for working with JD , JDN and Astronomical Cycles: [Solar, Metonic (Lunar),Indiction]",
   "main": "index.js",
   "types": "./index.d.ts",
