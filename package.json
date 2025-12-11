@@ -26,5 +26,9 @@
     "index.js",
     "index.mjs",
     "index.d.ts"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phothinmg/ptmjp.git"
+  }
 }
